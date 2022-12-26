@@ -1,0 +1,224 @@
+{
+  "bakel": {
+    "goudiry": 113,
+    "matam": 155
+  },
+  "bambey": {
+    "diourbel": 25,
+    "fatick": 42,
+    "thies": 65
+  },
+  "bignona": {
+    "bounkiling": 69,
+    "kaolack": 228,
+    "ziguinchor": 33
+  },
+  "birkilane": {
+    "kaffrine": 24,
+    "kaolack": 39
+  },
+  "bounkiling": {
+    "bignona": 69,
+    "kolda": 108,
+    "sedhiou": 50
+  },
+  "dagana": {
+    "matam": 292,
+    "podor": 95,
+    "saint_louis": 127
+  },
+  "dakar": {
+    "guediawaye": 13,
+    "pikine": 12
+  },
+  "diourbel": {
+    "bambey": 25,
+    "fatick": 65,
+    "gossas": 27,
+    "mbacke": 40
+  },
+  "fatick": {
+    "bambey": 42,
+    "diourbel": 65,
+    "foudiougne": 24,
+    "gossas": 50,
+    "kaolack": 46
+  },
+  "foudiougne": {
+    "fatick": 24
+  },
+  "gossas": {
+    "diourbel": 27,
+    "fatick": 50,
+    "kaolack": 38,
+    "kebemer": 100,
+    "mbacke": 64
+  },
+  "goudiry": {
+    "bakel": 113,
+    "tambacounda": 115
+  },
+  "goudompe": {
+    "sedhiou": 97,
+    "ziguinchor": 45
+  },
+  "guediawaye": {
+    "dakar": 13,
+    "keur_massar": 8,
+    "pikine": 4
+  },
+  "kaffrine": {
+    "birkilane": 24,
+    "koungheul": 85,
+    "malem_hodar": 29,
+    "mbacke": 108
+  },
+  "kaolack": {
+    "bignona": 228,
+    "birkilane": 39,
+    "fatick": 46,
+    "gossas": 38,
+    "nioro_du_rip": 56,
+    "ziguinchor": 228
+  },
+  "kebemer": {
+    "keur_massar": 112,
+    "louga": 37,
+    "mbacke": 10,
+    "tivaouane": 63
+  },
+
+  "kedougou": {
+    "salemata": 77,
+    "saraya": 50,
+    "tambacounda": 234
+  },
+
+  "keur_massar": {
+    "guediawaye": 8,
+    "kebemer": 112,
+    "pikine": 13,
+    "rufisque": 11,
+    "tivaouane": 76
+  },
+  "kolda": {
+    "bounkiling": 108,
+    "medina_yero_foula": 58,
+    "sedhiou": 146,
+    "velinguara": 132
+  },
+  "koumpentoum": {
+    "koungheul": 27,
+    "tambacounda": 102
+  },
+  "koungheul": {
+    "kaffrine": 85,
+    "koumpentoum": 27,
+    "malem_hodar": 59
+  },
+  "linguere": {
+    "louga": 129,
+    "mbacke": 120,
+    "ranerou": 132
+  },
+  "louga": {
+    "kebemer": 37,
+    "linguere": 129,
+    "saint_louis": 72
+  },
+  "malem_hodar": {
+    "kaffrine": 29,
+    "koungheul": 59
+  },
+  "matam": {
+    "bakel": 155,
+    "dagana": 292,
+    "podor": 243,
+    "ranerou": 93
+  },
+  "mbacke": {
+    "diourbel": 40,
+    "gossas": 64,
+    "kaffrine": 108,
+    "kebemer": 100,
+    "linguere": 120
+  },
+  "mbour": {
+    "rufisque": 68,
+    "thies": 71
+  },
+  "medina_yero_foula": {
+    "kolda": 58,
+    "sedhiou": 111
+  },
+  "nioro_du_rip": {
+    "kaolack": 56
+  },
+  "oussouye": {
+    "ziguinchor": 43
+  },
+  "pikine": {
+    "dakar": 12,
+    "guediawaye": 4,
+    "keur_massar": 13,
+    "rufisque": 18
+  },
+  "podor": {
+    "dagana": 95,
+    "matam": 243
+  },
+  "ranerou": {
+    "linguere": 132,
+    "matam": 93
+  },
+  "rufisque": {
+    "keur_massar": 11,
+    "mbour": 68,
+    "pikine": 18,
+    "thies": 44,
+    "tivaouane": 81
+  },
+  "saint_louis": {
+    "dagana": 127,
+    "louga": 72
+  },
+  "salemata": {
+    "kedougou": 77
+  },
+  "saraya": {
+    "kedougou": 50
+  },
+  "sedhiou": {
+    "bounkiling": 50,
+    "goudompe": 97,
+    "kolda": 146,
+    "medina_yero_foula": 111
+  },
+  "tambacounda": {
+    "goudiry": 115,
+    "kedougou": 234,
+    "koumpentoum": 102,
+    "velinguara": 95
+  },
+  "thies": {
+    "bambey": 65,
+    "mbour": 71,
+    "rufisque": 44,
+    "tivaouane": 24
+  },
+  "tivaouane": {
+    "kebemer": 63,
+    "keur_massar": 76,
+    "rufisque": 81,
+    "thies": 24
+  },
+  "velinguara": {
+    "kolda": 132,
+    "tambacounda": 95
+  },
+  "ziguinchor": {
+    "bignona": 33,
+    "goudompe": 45,
+    "oussouye": 43
+  }
+}

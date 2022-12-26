@@ -1,0 +1,11 @@
+var map = L.map('map').setView([14.6898, -17.4480], 3);
+var Thies = L.marker([14.7841, -16.9395]).bindPopup('Thies.'),
+    Diourbel = L.marker([14.6443, -16.2488]).bindPopup('Diourbel');
+var cities = L.layerGroup([Thies, Diourbel]);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: 'données streetmap du SENEGAL'
+}).addTo(map);
+L.marker([14.6898, -17.4480]).addTo(map)
+    .bindPopup('DAKAR.<br>SENEGAL.')
+    .openPopup();
